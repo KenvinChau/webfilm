@@ -2,11 +2,13 @@ p {
     width: 750px;
     color: rgb(204, 213, 226);
     background-color: rgb(65, 63, 61);
+    font-size: 1.2rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
     color: rgb(197, 209, 219)
 }
 
