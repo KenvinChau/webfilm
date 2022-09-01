@@ -1,0 +1,16 @@
+p {
+    width: 750px;
+    color: rgb(204, 213, 226);
+    background-color: rgb(65, 63, 61);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(197, 209, 219)
+}
+
+body {
+    background-color: rgb(65, 63, 61);
+
+}
